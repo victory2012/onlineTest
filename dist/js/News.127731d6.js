@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["News"],{3878:function(n,e,t){"use strict";t.r(e);var s=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  this is news page\n")])},o=[],i={name:"",props:[""],data:function(){return{}},components:{},mounted:function(){},methods:{}},u=i,c=t("25c1"),a=Object(c["a"])(u,s,o,!1,null,"9706d072",null);a.options.__file="news.vue";e["default"]=a.exports}}]);
+//# sourceMappingURL=News.127731d6.js.map
