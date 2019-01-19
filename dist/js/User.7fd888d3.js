@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["User"],{"3c97":function(e,c,t){},"62b0":function(e,c,t){"use strict";t.r(c);var n=function(){var e=this,c=e.$createElement,t=e._self._c||c;return t("div",{staticClass:"user-wrapper"},[t("router-view")],1)},r=[],s=(t("175c"),t("bc97"),t("a5be"),{}),a=s,u=(t("fbac"),t("25c1")),i=Object(u["a"])(a,n,r,!1,null,"1e562026",null);i.options.__file="user.vue";c["default"]=i.exports},fbac:function(e,c,t){"use strict";var n=t("3c97"),r=t.n(n);r.a}}]);
+//# sourceMappingURL=User.7fd888d3.js.map
