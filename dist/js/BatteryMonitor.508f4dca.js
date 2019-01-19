@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["BatteryMonitor"],{"41aa":function(n,t,e){},d2ab:function(n,t,e){"use strict";e.r(t);var i=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v("\n  this is monitor page\n")])},o=[],a={data:function(){return{}},mounted:function(){},methods:{}},u=a,r=(e("de05"),e("048f")),s=Object(r["a"])(u,i,o,!1,null,null,null);s.options.__file="index.vue";t["default"]=s.exports},de05:function(n,t,e){"use strict";var i=e("41aa"),o=e.n(i);o.a}}]);
-//# sourceMappingURL=BatteryMonitor.508f4dca.js.map
