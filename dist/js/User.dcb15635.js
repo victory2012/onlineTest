@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["User"],{"62b0":function(e,r,s){"use strict";s.r(r);var t=function(){var e=this,r=e.$createElement,s=e._self._c||r;return s("div",{staticClass:"user-wrapper"},[s("router-view")],1)},n=[],u={},i=u,a=s("25c1"),c=Object(a["a"])(i,t,n,!1,null,"2db1bb60",null);c.options.__file="user.vue";r["default"]=c.exports}}]);
-//# sourceMappingURL=User.dcb15635.js.map
